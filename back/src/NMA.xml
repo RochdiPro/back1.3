@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Objets>
+  <Objet>
+    <Code>ENMARMMETA</Code>
+    <Description>ARMOIRE EN METALE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMARMBOIS</Code>
+    <Description>ARMOIRE EN BOIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMDATASHO</Code>
+    <Description>DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMDASHMIR</Code>
+    <Description>SUPPORT MIRROIR DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPC003</Code>
+    <Description>PC ALL IN ONE HP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHACAN</Code>
+    <Description>CHAISE CONTINE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABCAN</Code>
+    <Description>TABLE CONTINE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMBANC</Code>
+    <Description>BANC</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTBLMAG</Code>
+    <Description>TABLEAU MAGIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTBLAFF</Code>
+    <Description>TABLEAU DE AFFICHAGE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTAB001</Code>
+    <Description>TABLE MONOPLACE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHA001</Code>
+    <Description>CHAISE FORMICA</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMECRHP</Code>
+    <Description>ECRAN ORDINATEUR HP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMUNTHP</Code>
+    <Description>UNITE CENTRALE HP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCLAV</Code>
+    <Description>CLAVIER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMSOUR</Code>
+    <Description>SOURIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTAB002</Code>
+    <Description>TABLE EN BOIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHA002</Code>
+    <Description>CHAISE EN BOIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABM1</Code>
+    <Description>TABLE MAITRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPC001</Code>
+    <Description>PC ALL IN ONE THINKCENTER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTBLBOI</Code>
+    <Description>TABLEAU EN BOIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPC002</Code>
+    <Description>PC  ALL IN ONE LENOVO</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTEL</Code>
+    <Description>TELEPHONE FIX</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPHOTOCO</Code>
+    <Description>PHOTOCOPIE SHARP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABPREP</Code>
+    <Description>TABLE PREPARATOIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHAPREP</Code>
+    <Description>CHAISE PREPARATOIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPOUB</Code>
+    <Description>POUBELLE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHAROU</Code>
+    <Description>CHAISE ROULANT</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHAVIS</Code>
+    <Description>CHAISE VISITEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMBUREAU</Code>
+    <Description>BUREAU</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMTABBASE</Code>
+    <Description>TABLE BASE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMSALCUIR</Code>
+    <Description>SALLON CUIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMTAB001</Code>
+    <Description>TABLE MONOPLACE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMPC002</Code>
+    <Description>PC ALL IN ONE LENOVO</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMTELFIX</Code>
+    <Description>TELEPHONE FIX</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMCAVIER</Code>
+    <Description>CLAVIER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMSOUR</Code>
+    <Description>SOURIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMPOUBE</Code>
+    <Description>POUBELLE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMTIRCAIS</Code>
+    <Description>TIRROIRE DE CAISSE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTBLMAG</Code>
+    <Description>TABLEAU MAGIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBCHAMAT</Code>
+    <Description>CHAISE MATERNEL</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABMAT</Code>
+    <Description>TABLEAU MATERNEL</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBELEBOIS</Code>
+    <Description>ELEMENT EN BOIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABMONO</Code>
+    <Description>TABLE MONOPLACE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBIMPRIMA</Code>
+    <Description>IMPRIMANTE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABAFF</Code>
+    <Description>TABLEAU DE AFFICHAGE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPCLONOV</Code>
+    <Description>PC ALL IN ONE LONOVO</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBCLAVIER</Code>
+    <Description>CALAVIER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBSOURIE</Code>
+    <Description>SOURIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBCHAFOR</Code>
+    <Description>CHAISE FORMICA</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBBUREAUMAIT</Code>
+    <Description>BUREAU MAITRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBDATSHOW</Code>
+    <Description>DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBMUDASH</Code>
+    <Description>MURALE DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBBANCMAT</Code>
+    <Description>BANC MATERNEL</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBRADCD</Code>
+    <Description>RADIO CD</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBMONTRE</Code>
+    <Description>MONTRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBMIROIRE</Code>
+    <Description>MIRROIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPORMON</Code>
+    <Description>PORTE MONTEAUX</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTELEPH</Code>
+    <Description>TELEPHONE FIX</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBCHAVIS</Code>
+    <Description>CHAISE VISITEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABVIS</Code>
+    <Description>TABLE VISITEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTV</Code>
+    <Description>TELEVISION</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBELEMETA</Code>
+    <Description>ELEMENT METALIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPOUBEL</Code>
+    <Description>POUBELLE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPCASUS</Code>
+    <Description>PC ALL IN ONE ASUS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABBOIS</Code>
+    <Description>TABLEAU EN BOIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBEMPLSON</Code>
+    <Description>AMPLIFICATEUR SON</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABPLAS</Code>
+    <Description>TABLE PLASTIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBFRIGID</Code>
+    <Description>FRIGIDAIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBMICROND</Code>
+    <Description>MICRO-ONDE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTELEPH</Code>
+    <Description>TELEPHONE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPHOTOCOP</Code>
+    <Description>PHOTOCOPIE SHARP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBSUPMAT</Code>
+    <Description>SUPPORT MATELAS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABTACT</Code>
+    <Description>TABLEAU TACTILE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPCHP</Code>
+    <Description>PC ALL IN ONE HP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPCPORTA</Code>
+    <Description>PC PORTABLE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBBUREAU</Code>
+    <Description>BUREAU</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBCHAROUL</Code>
+    <Description>CHAISE ROULANT</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBUNICEN</Code>
+    <Description>UNITE CENTRALE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBECRAN</Code>
+    <Description>ECRAN PC</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTIRCAIS</Code>
+    <Description>TIRROIRE DE CAISSE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBBUFLESON</Code>
+    <Description>BAFFLE DE SON</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBCHACAN</Code>
+    <Description>CHAISE CONTINE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABCAFF</Code>
+    <Description>TABLE CAFF2TIRIA</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCLIMATI</Code>
+    <Description>CLIMATISEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMRADCD</Code>
+    <Description>RADIO CD</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMAMPLI</Code>
+    <Description>AMPLIFICATEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPC004</Code>
+    <Description>PC ALL IN ONE HKC</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMUNTACER</Code>
+    <Description>UNITE CENTRALE ACER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMECRACER</Code>
+    <Description>ECRAN ACER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMECRADELL</Code>
+    <Description>ECRAN DELL</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABINFO</Code>
+    <Description>TABLE INFORMATIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMARMMETA</Code>
+    <Description>ARMOIRE METALIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMFRIGID</Code>
+    <Description>FRIGIDAIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABTAC</Code>
+    <Description>TABLE TACTILE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMARMMETA</Code>
+    <Description>ARMOIRE METALIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMHVIAN</Code>
+    <Description>HACHOIRE A VIANDE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMHSALA</Code>
+    <Description>HACHOIRE A SALADE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMGUIAD</Code>
+    <Description>GUIADE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMFRITE</Code>
+    <Description>FRITEUSE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMGAZ</Code>
+    <Description>GAZ</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMRICHO</Code>
+    <Description>RICHO</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMFOURELEC</Code>
+    <Description>FOUR ELECTRIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>EMTABINOX</Code>
+    <Description>TABLE INOX</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABCAN</Code>
+    <Description>TABLE CONTINE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMFRIGID</Code>
+    <Description>FRIGIDAIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCONGILA</Code>
+    <Description>CONGILATEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHARIO</Code>
+    <Description>CHARIO</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMBATTER</Code>
+    <Description>BATTEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMMOSTI</Code>
+    <Description>MOSTIQUAIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBSAMAIN</Code>
+    <Description>SECHE A MAIN</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMIMPRIMA</Code>
+    <Description>IMPRIMANTE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMCHAVIS</Code>
+    <Description>CHAISE VISITEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMBUREAU</Code>
+    <Description>BUREAU</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMPCPORTA</Code>
+    <Description>PC PORTABLE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMCHAUFFA</Code>
+    <Description>CHAUFFAGE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMMIR</Code>
+    <Description>MIRROIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMSALLON</Code>
+    <Description>SALON</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMARMBOIS</Code>
+    <Description>ARMOIRE EN BOIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMCHAROUL</Code>
+    <Description>CHAISE ROULANT</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMECRSAM</Code>
+    <Description>ECRAN SAMSUNG</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMDVR</Code>
+    <Description>DVR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMCLAVIER</Code>
+    <Description>CLAVIER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMPHOTOCO</Code>
+    <Description>PHOTOCOPIE SHARP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMDATSHO</Code>
+    <Description>DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPORMON</Code>
+    <Description>PORTE MONTEAUX</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBCHEVP</Code>
+    <Description>CHEVALIERS PEINTURES</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMSVAL</Code>
+    <Description>SUPPORT ALIMINIUM</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMDATASHO</Code>
+    <Description>DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>AMDDASHMIR</Code>
+    <Description>DATA SHOW MURALE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMTABMAG</Code>
+    <Description>TABLEAU MAGIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ADMTV</Code>
+    <Description>TV</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMBAFFLE</Code>
+    <Description>BUFFLE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMBATTEUR</Code>
+    <Description>BATTEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCHAUFFA</Code>
+    <Description>CHAUFFAGE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMCDATSHO</Code>
+    <Description>COMMANDE DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMFOURELC</Code>
+    <Description>FOUR ELECTRIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMIMPRIMAN</Code>
+    <Description>IMPRIMANTE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMPCPORT</Code>
+    <Description>PC PORTABLE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMSALCUIR</Code>
+    <Description>SALLON CUIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABBASE</Code>
+    <Description>TABLE BASSE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABINOX</Code>
+    <Description>TABLE INOX</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTABLAFF</Code>
+    <Description>TABLEAU AFFICHAGE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTIRCAIS</Code>
+    <Description>TIRROIRE DE CAISSE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>ENMTV</Code>
+    <Description>TV</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBAMPLSON</Code>
+    <Description>AMLIFICATEUR SON</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBBURMAIT</Code>
+    <Description>BUREAU MAITRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBINPRIMA</Code>
+    <Description>IMPRIMANTE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBMUDATSH</Code>
+    <Description>MURALE DATA SHOW</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPCLENOV</Code>
+    <Description>PC ALL IN ONE LENOVO</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBPHOTCOP</Code>
+    <Description>PHOTOCOPIE SHARP</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>SDBTABMAG</Code>
+    <Description>TABLEAU MAGIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+</Objets>

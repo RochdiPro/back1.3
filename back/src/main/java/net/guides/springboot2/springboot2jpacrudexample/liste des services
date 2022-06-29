@@ -1,0 +1,76 @@
+
+
+tous les class model containt les fonctions crud
+
+
+nom   : Creer _  Model           method post                     type de retour  model
+nom   : Supprimer  _ Model       method post                     type de retour  optionel
+nom   : Modifier _ model         method post                     type de retour  model
+nom   : filtre _ model           method get                      type de retour  liste du model
+nom   : exporter                 method post                     type de retour  fichier xml
+nom   : importer                 method get                      type de retour  chaine de caractère = 'ok'
+nom   : lister champs            method get                      type de retour  liste de chaine de caractère
+
+
+un model containt les liste des donnees
+
+    nom   : Liste_Categorie"                       ,method  GET
+    nom   : Categorie_Client"                      ,method  GET
+    nom   : Supprimer_Categorie_Client"            ,method  DELETE
+    nom   : Creer_Categorie_Client"                ,method  POST)
+    nom   : Categorie_Fournisseur"                 ,method  GET)
+    nom   : Supprimer_Categorie_Fournisseur"       ,method  DELETE)
+    nom   : Creer_Categorie_Fournisseur"           ,method  POST)
+    nom   : Categorie_Pays"                        ,method  GET)
+    nom   : Supprimer_Categorie_Pays"              ,method  DELETE)
+    nom   : Creer_Categorie_Pays"                  ,method  POST)
+    nom   : Categorie_Ville"                       ,method  GET)
+    nom   : Supprimer_Ville"                       ,method  DELETE)
+    nom   : Creer_Ville"                           ,method  POST)
+    nom   : Categorie_Local"                       ,method  GET)
+    nom   : Supprimer_Categorie_Local"             ,method  DELETE
+    nom   : Creer_Categorie_Local"                 ,method  POST)
+    nom   : Categorie_Tva"                         ,method  GET)
+    nom   : Supprimer_Categorie_Tva"               ,method  DELETE)
+    nom   : Creer_Categorie_Tva"                   ,method  POST)
+    nom   : Categorie_Ngp"                         ,method  GET)
+    nom   : Supprimer_Categorie_Ngp"               ,method  DELETE)
+    nom   : Creer_Categorie_Ngp"                   ,method  POST)
+    nom   : Categorie_Type1"                       ,method  GET)
+    nom   : Supprimer_Categorie_Type1"             ,method  DELETE)
+    nom   : Creer_Categorie_Type1"                 ,method  POST)
+    nom   : Categorie_Type2"                       ,method  GET)
+    nom   : Supprimer_Categorie_Type2"             ,method  DELETE)
+    nom   : Creer_Categorie_Type2"                 ,method  POST)
+    nom   : Categorie_Famille"                     ,method  GET)
+    nom   : Sypprimer_Categorie_Famille"           ,method  DELETE)
+    nom   : Creer_Categorie_Famille"               ,method  POST)
+    nom   : Categorie_Sous_Famille"                ,method  GET)
+    nom   : Supprimer_Categorie_Sous_Famille"      ,method  DELETE)
+    nom   : Creer_Categorie_Sous_Famille"          ,method  POST)
+    nom   : Categorie_Piece"                       ,method  GET)
+    nom   : Supprimer_Categorie_Piece"             ,method  DELETE)
+    nom   : Creer_Categorie_Piece"                 ,method  POST)
+    nom   : Categorie_Region"                      ,method  GET)
+    nom   : Supprimer_Categorie_Region"            ,method  DELETE)
+    nom   : Creer_Categorie_Region"                ,method  POST)
+    nom   : Categorie_Banque"                      ,method  GET)
+    nom   : Supprimer_Banque"                      ,method  DELETE)
+    nom   : Creer_Banque"                          ,method  POST)
+    nom   : Categorie_Fiscale"                     ,method  GET)
+    nom   : Supprimer_Categorie_Fiscale"           ,method  ELETE)
+    nom   : Creer_Categorie_Fiscale"               ,method  POST)
+    nom   : Categorie_Paiement"                    ,method  GET)
+    nom   : Supprimer_Categorie_Paiement"          ,method  DELETE)
+    nom   : Creer_Categorie_Paiement"              ,method  POST)
+    nom   : Categorie_Unite"                       ,method  GET)
+    nom   : Supprimer_Categorie_Unite"             ,method  DELETE)
+    nom   : Creer_Categorie_Unite"                 ,method  POST)
+    nom   : Categorie_Fodec"                       ,method  GET)
+    nom   : Supprimer_Categorie_Fodec"             ,method  DELETE)
+    nom   : Creer_Categorie_Fodec                  ,method  POST)
+
+
+pour le method Get le type de retour            liste de chaines de caractères
+pour le method POST le type de retour           chaine de caractère = 'ok'
+pour le method Get le type de retour            chaine de caractère = 'ok'

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Produits>
+  <produit>
+    <Id>0</Id>
+    <Ref>TABLES REFECTOIRES</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>1</Id>
+    <Ref>bancs refectoires</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>2</Id>
+    <Ref>tableau blanc de classe</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>3</Id>
+    <Ref>tableaux de decoration murale</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>4</Id>
+    <Ref>climatiseur</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>5</Id>
+    <Ref>petite table</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>6</Id>
+    <Ref>grande table</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>7</Id>
+    <Ref>chaise</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>8</Id>
+    <Ref>rechaud</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>9</Id>
+    <Ref>bouteille de gaz</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>10</Id>
+    <Ref>armoire</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>11</Id>
+    <Ref>Refrigerateur</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>12</Id>
+    <Ref>bureau</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>13</Id>
+    <Ref>chaises de bureau</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>14</Id>
+    <Ref>ordinateur</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>15</Id>
+    <Ref>telephone fixe</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>16</Id>
+    <Ref>climatiseur</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>17</Id>
+    <Ref>poubelle</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>18</Id>
+    <Ref>grande plante cote jardin</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>19</Id>
+    <Ref>Etagere</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>20</Id>
+    <Ref>Tableau de affichage</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>21</Id>
+    <Ref>petite table</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>22</Id>
+    <Ref>poufs</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>23</Id>
+    <Ref>tables de eleves</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>24</Id>
+    <Ref>tableau blanc</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>25</Id>
+    <Ref>chaises</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>26</Id>
+    <Ref>climatiseur</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>27</Id>
+    <Ref>argentieres de bibliotheque</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>28</Id>
+    <Ref>grande table carree en bois</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>29</Id>
+    <Ref>fauteuil</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>30</Id>
+    <Ref>chaise noire</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>31</Id>
+    <Ref>Buffles</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>32</Id>
+    <Ref>Coupeuse de papier</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>33</Id>
+    <Ref>plastifieuse</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>34</Id>
+    <Ref>imprimante</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>35</Id>
+    <Ref>pot de plante plastique</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>36</Id>
+    <Ref>grandes affiches Simone de Beauvoir</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>37</Id>
+    <Ref>montre</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>38</Id>
+    <Ref>scanner</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>39</Id>
+    <Ref>calendrier de decoration</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>40</Id>
+    <Ref>porte bougie</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>41</Id>
+    <Ref>machine A gel desinfectant</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>42</Id>
+    <Ref>tables De ordinateurs</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>43</Id>
+    <Ref>table de professeur</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>44</Id>
+    <Ref>tableaux</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>45</Id>
+    <Ref>petites plantes plastiques</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>46</Id>
+    <Ref>TBI</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>47</Id>
+    <Ref>data show</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>48</Id>
+    <Ref>tables hautes</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>49</Id>
+    <Ref>chaises bistrot</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>50</Id>
+    <Ref>parasols</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>51</Id>
+    <Ref>tables</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>52</Id>
+    <Ref>plantes</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>53</Id>
+    <Ref>CADRE</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+  <produit>
+    <Id>54</Id>
+    <Ref>VASE</Ref>
+    <Quantite>5</Quantite>
+    <Prix>25</Prix>
+  </produit>
+</Produits>

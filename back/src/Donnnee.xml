@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Infonet>
+  <Donnees>
+    <Categorie_Fournisseur>
+      <Revendeur>10</Revendeur>
+      <Semi_Revendeur>15</Semi_Revendeur>
+      <Producteur>20</Producteur>
+    </Categorie_Fournisseur>
+    <Categorie_Client>
+      <Passager>35</Passager>
+      <Fidèle>30</Fidèle>
+      <SuperFidèle>25</SuperFidèle>
+      <Revendeur>50.0</Revendeur>
+    </Categorie_Client>
+    <Categorie_Type1>
+      <Alimentaire />
+      <Cosmétique />
+      <SemiDurable />
+      <Durable />
+      <Quotidien />
+    </Categorie_Type1>
+    <Categorie_Type2>
+      <Frais>Alimentaire</Frais>
+      <Embale>Alimentaire</Embale>
+      <Congele>Alimentaire</Congele>
+      <Epices_Sale>Alimentaire</Epices_Sale>
+      <Laite>Alimentaire</Laite>
+      <Boissons>Alimentaire</Boissons>
+      <Patisserie>Alimentaire</Patisserie>
+      <Hygene>Quotidien</Hygene>
+      <Nettoyage>Quotidien</Nettoyage>
+      <Plastique>Quotidien</Plastique>
+      <Parfum>Cosmétique</Parfum>
+      <Creme>Cosmétique</Creme>
+      <Parapharmacie>Cosmétique</Parapharmacie>
+      <Makiage>Cosmétique</Makiage>
+      <Meuble>SemiDurable</Meuble>
+      <Education>SemiDurable</Education>
+      <Vetement>SemiDurable</Vetement>
+      <Mecanique>SemiDurable</Mecanique>
+      <Jouèe>SemiDurable</Jouèe>
+      <Artisanat>SemiDurable</Artisanat>
+      <Electricité>SemiDurable</Electricité>
+      <Accessoire>SemiDurable</Accessoire>
+      <Informatique>Durable</Informatique>
+      <Electromenager>Durable</Electromenager>
+      <Automobile>Durable</Automobile>
+      <Piece_Rechange>Durable</Piece_Rechange>
+      <Jardinage>Durable</Jardinage>
+    </Categorie_Type2>
+    <Categorie_Famille>
+      <Viande>Frais</Viande>
+      <Marins>Frais</Marins>
+      <Fruit>Frais</Fruit>
+      <legume>Frais</legume>
+      <yaourt>Laite</yaourt>
+      <Formage>Laite</Formage>
+      <Sac>Embale</Sac>
+      <Boite>Embale</Boite>
+      <Carton>Embale</Carton>
+      <Congele>Congele</Congele>
+      <Surgele>Congele</Surgele>
+      <Epices>Epices_Sale</Epices>
+      <Sale>Epices_Sale</Sale>
+      <Pain>Patisserie</Pain>
+      <Gateaux>Patisserie</Gateaux>
+      <sale>Patisserie</sale>
+      <pizza>Patisserie</pizza>
+      <Juse>Boissons</Juse>
+      <gaze>Boissons</gaze>
+      <Alcole>Boissons</Alcole>
+      <Juse_frais>Boissons</Juse_frais>
+    </Categorie_Famille>
+    <Categorie_Sous_Famille>
+      <Rouge>Viande</Rouge>
+      <Blanche>Viande</Blanche>
+      <Moule>Marins</Moule>
+      <Crevette>Marins</Crevette>
+      <poissons>Marins</poissons>
+      <Banane>Fruit</Banane>
+      <Pomme>Fruit</Pomme>
+      <Ananas>Fruit</Ananas>
+      <Ail>legume</Ail>
+      <Artichaut>legume</Artichaut>
+      <Pomme_terre>legume</Pomme_terre>
+      <Tomate>legume</Tomate>
+      <Nature>yaourt</Nature>
+      <Entier>yaourt</Entier>
+      <Brassé>yaourt</Brassé>
+      <Brillat_Savarin>Formage</Brillat_Savarin>
+      <Brie_Meaux>Formage</Brie_Meaux>
+    </Categorie_Sous_Famille>
+    <Categorie_Region>
+      <Esskhira>Sfax</Esskhira>
+      <El_Hencha>Sfax</El_Hencha>
+      <El_Amra>Sfax</El_Amra>
+      <Bir_Al_Ben_Khelifa>Sfax</Bir_Al_Ben_Khelifa>
+      <Agareb>Sfax</Agareb>
+      <Ghraiba>Sfax</Ghraiba>
+      <Jebeniana>Sfax</Jebeniana>
+      <Kerkenah>Sfax</Kerkenah>
+      <Mahras>Sfax</Mahras>
+      <Menzel_Chaker>Sfax</Menzel_Chaker>
+      <Sakiet_Eddaier>Sfax</Sakiet_Eddaier>
+      <Sakiet_Ezzit>Sfax</Sakiet_Ezzit>
+      <Sfax_Est>Sfax</Sfax_Est>
+      <Sfax_Sud>Sfax</Sfax_Sud>
+      <Sfax_Ville>Sfax</Sfax_Ville>
+      <Ariana_Ville>Ariana</Ariana_Ville>
+      <Ettadhamen>Ariana</Ettadhamen>
+      <Kalaat_Landlous>Ariana</Kalaat_Landlous>
+      <Soukra>Ariana</Soukra>
+      <Mnihla>Ariana</Mnihla>
+      <Raoued>Ariana</Raoued>
+      <Sidi_Thabet>Ariana</Sidi_Thabet>
+      <Amdoun>Beja</Amdoun>
+      <Beja_Nord>Beja</Beja_Nord>
+      <Beja_Sud>Beja</Beja_Sud>
+      <Goubellat>Beja</Goubellat>
+      <Mejez_El_Bab>Beja</Mejez_El_Bab>
+      <Teboursouk>Beja</Teboursouk>
+      <Testour>Beja</Testour>
+      <Thibar>Beja</Thibar>
+      <Bou_Mhel_El_Bassatine>Ben_Arous</Bou_Mhel_El_Bassatine>
+      <El_Mourouj>Ben_Arous</El_Mourouj>
+      <Ezzahra>Ben_Arous</Ezzahra>
+      <Fouchana>Ben_Arous</Fouchana>
+      <Hammam_Chatt>Ben_Arous</Hammam_Chatt>
+      <Hammam_Lif>Ben_Arous</Hammam_Lif>
+      <Mohamadia>Ben_Arous</Mohamadia>
+      <Mornag>Ben_Arous</Mornag>
+      <Nouvelle_Medina>Ben_Arous</Nouvelle_Medina>
+      <Rades>Ben_Arous</Rades>
+      <Bizerte_Nord>Bizerte</Bizerte_Nord>
+      <Bizerte_Sud>Bizerte</Bizerte_Sud>
+      <El_Alia>Bizerte</El_Alia>
+      <Ghar_El_Melh>Bizerte</Ghar_El_Melh>
+      <Ghezala>Bizerte</Ghezala>
+      <Jarzouna>Bizerte</Jarzouna>
+      <Joumine>Bizerte</Joumine>
+      <Mateur>Bizerte</Mateur>
+      <Menzel_Bourguiba>Bizerte</Menzel_Bourguiba>
+      <Menzel_Jemil>Bizerte</Menzel_Jemil>
+      <Ras_Jebel>Bizerte</Ras_Jebel>
+      <Sejnane>Bizerte</Sejnane>
+      <Tinja>Bizerte</Tinja>
+      <Utique>Bizerte</Utique>
+      <El_Hamma>Gabes</El_Hamma>
+      <El_Metouia>Gabes</El_Metouia>
+      <Gabes_Medina>Gabes</Gabes_Medina>
+      <Gabes_Ouest>Gabes</Gabes_Ouest>
+      <Gabes_Sud>Gabes</Gabes_Sud>
+      <Ghannouche>Gabes</Ghannouche>
+      <Mareth>Gabes</Mareth>
+      <Matmata>Gabes</Matmata>
+      <Menzel_Habib>Gabes</Menzel_Habib>
+      <Nouvelle_Matmata>Gabes</Nouvelle_Matmata>
+      <Belkhir>Gafsa</Belkhir>
+      <El_Guettar>Gafsa</El_Guettar>
+      <El_Ksar>Gafsa</El_Ksar>
+      <El_Mdhilla>Gafsa</El_Mdhilla>
+      <Gafsa_Nord>Gafsa</Gafsa_Nord>
+      <Gafsa_Sud>Gafsa</Gafsa_Sud>
+      <Metlaoui>Gafsa</Metlaoui>
+      <Moulares>Gafsa</Moulares>
+      <Redeyef>Gafsa</Redeyef>
+      <Sidi_Aich>Gafsa</Sidi_Aich>
+      <Sned>Gafsa</Sned>
+      <Ain_Draham>Jendouba</Ain_Draham>
+      <Balta_Bou_Aouene>Jendouba</Balta_Bou_Aouene>
+      <Bou_Salem>Jendouba</Bou_Salem>
+      <Fernana>Jendouba</Fernana>
+      <Ghardimaou>Jendouba</Ghardimaou>
+      <Jendouba>Jendouba</Jendouba>
+      <Jendouba_Nord>Jendouba</Jendouba_Nord>
+      <Oued_Mliz>Jendouba</Oued_Mliz>
+      <Tabarka>Jendouba</Tabarka>
+      <Bou_Hajla>Kairouan</Bou_Hajla>
+      <Chebika>Kairouan</Chebika>
+      <Cherarda>Kairouan</Cherarda>
+      <El_Ala>Kairouan</El_Ala>
+      <Haffouz>Kairouan</Haffouz>
+      <Hajeb_El_Ayoun>Kairouan</Hajeb_El_Ayoun>
+      <Kairouan_Nord>Kairouan</Kairouan_Nord>
+      <Kairouan_Sud>Kairouan</Kairouan_Sud>
+      <Nasrallah>Kairouan</Nasrallah>
+      <Oueslatia>Kairouan</Oueslatia>
+      <Sbikha>Kairouan</Sbikha>
+      <El_Ayoun>Kasserine</El_Ayoun>
+      <Ezzouhour>Kasserine</Ezzouhour>
+      <Feriana>Kasserine</Feriana>
+      <Foussana>Kasserine</Foussana>
+      <Haidra>Kasserine</Haidra>
+      <Hassi_El_Frid>Kasserine</Hassi_El_Frid>
+      <Jediliane>Kasserine</Jediliane>
+      <Kasserine_Nord>Kasserine</Kasserine_Nord>
+      <Kasserine_Sud>Kasserine</Kasserine_Sud>
+      <Mejel_Bel_Abbes>Kasserine</Mejel_Bel_Abbes>
+      <Sbeitla>Kasserine</Sbeitla>
+      <Sbiba>Kasserine</Sbiba>
+      <Thala>Kasserine</Thala>
+      <Douz>Kebili</Douz>
+      <El_Faouar>Kebili</El_Faouar>
+      <Kebili_Nord>Kebili</Kebili_Nord>
+      <Kebili_Sud>Kebili</Kebili_Sud>
+      <Souk_El_Ahad>Kebili</Souk_El_Ahad>
+      <Borj_El_Amri>Manouba</Borj_El_Amri>
+      <Douar_Hicher>Manouba</Douar_Hicher>
+      <El_Battan>Manouba</El_Battan>
+      <Jedaida>Manouba</Jedaida>
+      <Mannouba>Manouba</Mannouba>
+      <Mornaguia>Manouba</Mornaguia>
+      <Oued_Ellil>Manouba</Oued_Ellil>
+      <Tebourba>Manouba</Tebourba>
+      <Dahmani>Kef</Dahmani>
+      <El_Ksour>Kef</El_Ksour>
+      <Jerissa>Kef</Jerissa>
+      <Kalaa_El_Khasba>Kef</Kalaa_El_Khasba>
+      <Kalaat_Sinane>Kef</Kalaat_Sinane>
+      <Le_Kef_Est>Kef</Le_Kef_Est>
+      <Le_Kef_Ouest>Kef</Le_Kef_Ouest>
+      <Le_Sers>Kef</Le_Sers>
+      <Nebeur>Kef</Nebeur>
+      <Sakiet_Sidi_Youssef>Kef</Sakiet_Sidi_Youssef>
+      <Tajerouine>Kef</Tajerouine>
+      <Touiref>Kef</Touiref>
+      <Bou_Merdes>Mahdia</Bou_Merdes>
+      <Chorbane>Mahdia</Chorbane>
+      <El_Jem>Mahdia</El_Jem>
+      <Hbira>Mahdia</Hbira>
+      <Ksour_Essaf>Mahdia</Ksour_Essaf>
+      <Chebba>Mahdia</Chebba>
+      <Mahdia>Mahdia</Mahdia>
+      <Melloulech>Mahdia</Melloulech>
+      <Ouled_Chamakh>Mahdia</Ouled_Chamakh>
+      <Sidi_Alouene>Mahdia</Sidi_Alouene>
+      <Souassi>Mahdia</Souassi>
+      <Ajim>Mednine</Ajim>
+      <Ben_Guerdane>Mednine</Ben_Guerdane>
+      <Beni_Khedache>Mednine</Beni_Khedache>
+      <Houmet_Essouk>Mednine</Houmet_Essouk>
+      <Medenine_Nord>Mednine</Medenine_Nord>
+      <Medenine_Sud>Mednine</Medenine_Sud>
+      <Midoun>Mednine</Midoun>
+      <Sidi_Makhlouf>Mednine</Sidi_Makhlouf>
+      <Zarzis>Mednine</Zarzis>
+      <Bekalta>Monastir</Bekalta>
+      <Bembla>Monastir</Bembla>
+      <Beni_Hassen>Monastir</Beni_Hassen>
+      <Jemmal>Monastir</Jemmal>
+      <Ksar_Helal>Monastir</Ksar_Helal>
+      <Ksibet_El_Mediouni>Monastir</Ksibet_El_Mediouni>
+      <Moknine>Monastir</Moknine>
+      <Monastir>Monastir</Monastir>
+      <Sahline>Monastir</Sahline>
+      <Teboulba>Monastir</Teboulba>
+      <Zeramdine>Monastir</Zeramdine>
+    </Categorie_Region>
+    <Categorie_Pays>
+      <Algérie />
+      <France />
+      <Italie />
+      <Turkey />
+      <Tunisie />
+    </Categorie_Pays>
+    <Categorie_Ville>
+      <Sfax>Tunisie</Sfax>
+      <Ariana>Tunisie</Ariana>
+      <Ben_Arous>Tunisie</Ben_Arous>
+      <Gabes>Tunisie</Gabes>
+      <Gafsa>Tunisie</Gafsa>
+      <Jendouba>Tunisie</Jendouba>
+      <Kairouan>Tunisie</Kairouan>
+      <Kasserine>Tunisie</Kasserine>
+      <Kebili>Tunisie</Kebili>
+      <Manouba>Tunisie</Manouba>
+      <Kef>Tunisie</Kef>
+      <Mahdia>Tunisie</Mahdia>
+      <Mednine>Tunisie</Mednine>
+      <Monastir>Tunisie</Monastir>
+      <Nabeul>Tunisie</Nabeul>
+      <Sidi_Bouzid>Tunisie</Sidi_Bouzid>
+      <Siliana>Tunisie</Siliana>
+      <Sousse>Tunisie</Sousse>
+      <Tataouine>Tunisie</Tataouine>
+      <Tozeur>Tunisie</Tozeur>
+      <Tunis>Tunisie</Tunis>
+      <Zaghouan>Tunisie</Zaghouan>
+      <Beja>Tunisie</Beja>
+    </Categorie_Ville>
+    <Categorie_Tva>
+      <Taxe7>7</Taxe7>
+      <Taxe13>13</Taxe13>
+      <Taxe19>19</Taxe19>
+    </Categorie_Tva>
+    <Categorie_Ngp>
+      <N_85171200101_19>
+        <Taxe001-30 />
+        <Taxe001-15 />
+        <Taxe093 />
+      </N_85171200101_19>
+      <N_85171200907_19 />
+      <N_84719000015_7 />
+      <test>
+        0.0
+        <Taxe001-30 />
+        <Taxe094 />
+        <Taxe105-19 />
+        <Taxe473 />
+      </test>
+      <test2>
+        0.0
+        <Taxe105-7 />
+        <Taxe473 />
+      </test2>
+      <test3>
+        0.0
+        <Taxe001-30 />
+        <Taxe105-19 />
+        <Taxe473 />
+      </test3>
+      <test4>
+        0.0
+        <Taxe001-30 />
+        <Taxe093 />
+        <Taxe094 />
+        <Taxe105-19 />
+        <Taxe473 />
+      </test4>
+      <test5>
+        0.0
+        <Taxe093 />
+        <Taxe105-19 />
+        <Taxe473 />
+      </test5>
+      <test6>
+        0.0
+        <Taxe001-30 />
+        <Taxe093 />
+        <Taxe105-19 />
+        <Taxe473 />
+      </test6>
+      <Interface>0.0</Interface>
+      <f>
+        0.0
+        <Taxe001-30 />
+        <Taxe093 />
+        <Taxe473 />
+      </f>
+      <aaaa>0.0</aaaa>
+      <d>0.0</d>
+      <wiem>0.0</wiem>
+      <PDA>
+        0.0
+        <Taxe473 />
+        <Taxe105-19 />
+        <Taxe094 />
+        <Taxe094 />
+      </PDA>
+      <e>
+        0.0
+        <Taxe001-30 />
+        <Taxe094 />
+      </e>
+    </Categorie_Ngp>
+    <Categorie_Local>
+      <Depot />
+      <Point_Vente />
+      <Magasin />
+    </Categorie_Local>
+    <Categorie_Piece>
+      <Cin />
+      <Patente />
+      <Passeport />
+    </Categorie_Piece>
+    <Categorie_Banque>
+      <Biat>Tunisie</Biat>
+      <BH>Tunisie</BH>
+      <tt>2.0</tt>
+    </Categorie_Banque>
+    <Categorie_Fiscale>
+      <Assujetti_tva />
+      <Non_Assujetti_tva />
+      <Exonéré_tva />
+      <Exonéré_tva_et_Fodec />
+      <Suspension_tva />
+      <Cession_a_quai />
+      <Reduction_tva />
+    </Categorie_Fiscale>
+    <Categorie_Type_Paiement>
+      <Cheque />
+      <Cartes_bancaires />
+      <Virement />
+      <Especes />
+    </Categorie_Type_Paiement>
+    <Categorie_Unite>
+      <Piece />
+      <Kg />
+      <m />
+    </Categorie_Unite>
+    <Categorie_Fodec>
+      <Sans_Fodec />
+      <Fodec_Sur_Achat />
+      <Fodec_Sur_Vente />
+    </Categorie_Fodec>
+    <Categorie_Employe>
+      <Simple_ouvrier />
+      <Technicien />
+      <Ingénieur />
+      <chauffeur>20.0</chauffeur>
+    </Categorie_Employe>
+    <Categorie_Congé>
+      <Congé_payé />
+      <Maladie />
+      <Sans_solde />
+    </Categorie_Congé>
+    <Categorie_Taxe>
+      <Taxe001-30>30</Taxe001-30>
+      <Taxe001-15>15</Taxe001-15>
+      <Taxe094>5</Taxe094>
+      <Taxe093>1</Taxe093>
+      <Taxe105-7>7</Taxe105-7>
+      <Taxe105-13>13</Taxe105-13>
+      <Taxe105-19>19</Taxe105-19>
+      <Taxe473>3</Taxe473>
+    </Categorie_Taxe>
+    <Categorie_Agence_Transitaire>
+      <TRANSPORT_INTERNATIONAL />
+      <Agence_Maritime_Mohab />
+    </Categorie_Agence_Transitaire>
+    <Categorie_Agence_Transport>
+      <TRANSAF_Affes />
+      <Hammami_Transport />
+    </Categorie_Agence_Transport>
+    <Categorie_Famille_Logistique>
+      <Famille_Logistique1>
+        <Sous_Famille_Logistique11 />
+        <Sous_Famille_Logistique12 />
+      </Famille_Logistique1>
+      <Famille_Logistique2>
+        <Sous_Famille_Logistique21 />
+        <Sous_Famille_Logistique22 />
+      </Famille_Logistique2>
+    </Categorie_Famille_Logistique>
+  </Donnees>
+</Infonet>

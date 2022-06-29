@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Objets>
+  <Objet>
+    <Code>CSDBTABREF</Code>
+    <Description>TABLES REFECTOIRES</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBBREF</Code>
+    <Description>bancs refectoires</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTBLC</Code>
+    <Description>tableau blanc de classe</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTBLDM</Code>
+    <Description>tableaux de decoration murale</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCLIMA</Code>
+    <Description>climatiseur</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPTABL</Code>
+    <Description>petite table</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBGTABL</Code>
+    <Description>grande table</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCHAC</Code>
+    <Description>chaise</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBRECH</Code>
+    <Description>rechaud</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBBGAZ</Code>
+    <Description>bouteille de gaz</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBARMOIR</Code>
+    <Description>armoire</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBREFRI</Code>
+    <Description>Refrigerateur</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBBUR</Code>
+    <Description>bureau</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCHBUR</Code>
+    <Description>chaises de bureau</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBORDINA</Code>
+    <Description>ordinateur</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTELFIX</Code>
+    <Description>telephone fixe</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCLIMA</Code>
+    <Description>climatiseur</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPOUBE</Code>
+    <Description>poubelle</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBGPJ</Code>
+    <Description>grande plante cote jardin</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBETA</Code>
+    <Description>Etagere</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTBLAF</Code>
+    <Description>Tableau de affichage</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPTAB</Code>
+    <Description>petite table</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPOUF</Code>
+    <Description>poufs</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTABEL</Code>
+    <Description>tables de eleves</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTBL</Code>
+    <Description>tableau blanc</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCHAIS</Code>
+    <Description>chaises</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCLIMA</Code>
+    <Description>climatiseur</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBABIBLI</Code>
+    <Description>argentieres de bibliotheque</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTABBOI</Code>
+    <Description>grande table carree en bois</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBFOUTEU</Code>
+    <Description>fauteuil</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCHNOI</Code>
+    <Description>chaise noire</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBBUFFLE</Code>
+    <Description>Buffles</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCPAPIE</Code>
+    <Description>Coupeuse de papier</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPLASTI</Code>
+    <Description>plastifieuse</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBIMPRIM</Code>
+    <Description>imprimante</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPPP</Code>
+    <Description>pot de plante plastique</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBAFSDB</Code>
+    <Description>grandes affiches Simone de Beauvoir</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBMOMTRE</Code>
+    <Description>montre</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBSCAN</Code>
+    <Description>scanner</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCALEND</Code>
+    <Description>calendrier de decoration</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPBOUG</Code>
+    <Description>porte bougie</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBMGELIN</Code>
+    <Description>machine A gel desinfectant</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTABORD</Code>
+    <Description>tables De ordinateurs</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTABPRO</Code>
+    <Description>table de professeur</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTABMA</Code>
+    <Description>tableaux</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPPP</Code>
+    <Description>petites plantes plastiques</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTBLT</Code>
+    <Description>TBI</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBDSHOW</Code>
+    <Description>data show</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTABHAU</Code>
+    <Description>tables hautes</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCHABIS</Code>
+    <Description>chaises bistrot</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPRASOL</Code>
+    <Description>parasols</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBTABLE</Code>
+    <Description>tables</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBPLA</Code>
+    <Description>plantes</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBCADRE</Code>
+    <Description>CADRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CSDBVASE</Code>
+    <Description>VASE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+</Objets>

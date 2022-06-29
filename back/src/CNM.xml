@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Objets>
+  <Objet>
+    <Code>CNMPER</Code>
+    <Description>PERCEUSE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMARM</Code>
+    <Description>ARMOIRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMREF</Code>
+    <Description>REFREGERATEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMFOUR</Code>
+    <Description>FOUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMBUR</Code>
+    <Description>BUREAU</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMBMAI</Code>
+    <Description>BUREAU MAITRE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMTABC</Code>
+    <Description>TABLE CANTINE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMBANC</Code>
+    <Description>BANC</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMTABMO</Code>
+    <Description>TABLE MONOPLACE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMCCHFO</Code>
+    <Description>CHAISE FORMICA</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMEAUT</Code>
+    <Description>FAUTEUIL</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMAHA</Code>
+    <Description>CHAISE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMTABBA</Code>
+    <Description>TABLE BASSE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMTELFIX</Code>
+    <Description>APPAREIL FIXE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMUNICE</Code>
+    <Description>UNITE CENTRALE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMECRAN</Code>
+    <Description>ECRAN</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMSOUR</Code>
+    <Description>SOURIS</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMCLAV</Code>
+    <Description>CLAVIER</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMVPF</Code>
+    <Description>VIDEO PROJECTEUR FIXE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMVPM</Code>
+    <Description>VIDEO PROJECTEUR MOBILE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMCLIMA</Code>
+    <Description>CLIMATISEUR</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMTV</Code>
+    <Description>TV</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>BUFFLE</Code>
+    <Description>CNMBUFF</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMTBLMAG</Code>
+    <Description>TABLEAU MAGIQUE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMTBLAFF</Code>
+    <Description>TABLEAU D'AFFICHAGE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMSTR</Code>
+    <Description>STRADE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+  <Objet>
+    <Code>CNMPHOTO</Code>
+    <Description>PHOTOCOPIE</Description>
+    <Quantite>0</Quantite>
+  </Objet>
+</Objets>
